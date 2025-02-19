@@ -71,7 +71,7 @@ app.layout = html.Div(
                     "cursor": "pointer"
                 }),
                 html.H2(
-                    "Dashboard Explanation", 
+                    "Dashboard Explanation 2", 
                     style={
                         "fontSize": "32px",  # Larger size for main title
                         "fontWeight": "bold",  # Bold text for emphasis
